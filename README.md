@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Javascript
+- 🔭 I'm currently a weldor/ fabricator with experience in Solidworks, and mechanical design
+- ⚡ Fun fact: I race motorcycles and cars on closed tracks for fun 
