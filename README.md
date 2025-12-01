@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Javascript
 - 🔭 I'm currently an account executive 
 - ⚡ Fun fact: I race motorcycles and cars on closed tracks for fun 
