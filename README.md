@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Javascript
-- 🔭 I'm currently a weldor/ fabricator with experience in Solidworks, and mechanical design
+- 🔭 I'm currently an account executive 
 - ⚡ Fun fact: I race motorcycles and cars on closed tracks for fun 
