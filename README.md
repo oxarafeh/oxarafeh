@@ -1,4 +1,4 @@
-### Hi, Im Oxama Arafeh, and im currently learning to be a full stack developer
+### Hi, Im Oxama Arafeh
 
 <!--
 **oxarafeh/oxarafeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
